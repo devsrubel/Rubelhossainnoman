@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/yf6fQhN/Rubel-Hossain.gif)](https://developerrubel.com)
+<a href="https://developerrubel.com" target="_blank">[![MasterHead](https://i.ibb.co/yf6fQhN/Rubel-Hossain.gif)](https://developerrubel.com)</a>
 
 <h1 align="center">Hi 👋, I'm Rubel Hossain Noman</h1>
 <h3 align="center">A passionate Frontend and Backend developer from **Bangladesh**</h3>
