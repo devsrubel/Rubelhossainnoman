@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rubel Hossain Noman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubelhossainnoman&label=Profile%20views&color=0e75b6&style=flat" alt="rubelhossainnoman" /> </p>
+<p style="d-flex"> <img src="https://komarev.com/ghpvc/?username=rubelhossainnoman&label=Profile%20views&color=0e75b6&style=flat" alt="rubelhossainnoman" />
+<img style="float-right width: 400px;height: 340px;object-fit: contain;margin-right: 0;" src="https://i.ibb.co/0MRTgP3/39998-web-development.gif" alt="39998-web-development" border="0"></p>
 
+- 🔭 I’m currently working on **Wordpress Website**
+
+- 🌱 I’m currently learning **MERN Stack Development**
+
+- 🤝 I’m looking for help with **https://developerrubel.com/contact**
+
+- 👨‍💻 All of my projects are available at [https://developerrubel.com](https://developerrubel.com)
+
+- 📫 How to reach me **developerrubel.me@gmail.com**
+
+- ⚡ Fun fact **I think I am funny and with work fun system**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
