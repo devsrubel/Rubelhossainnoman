@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p style="d-flex"> <img src="https://komarev.com/ghpvc/?username=rubelhossainnoman&label=Profile%20views&color=0e75b6&style=flat" alt="rubelhossainnoman" />
-<img align="right" style="width: 400px;height: 340px;object-fit: contain;margin-right: 0;" src="https://i.ibb.co/0MRTgP3/39998-web-development.gif" alt="39998-web-development" border="0"></p>
-
+<img align="right" style="width: 360px;height: 360px;object-fit: contain;" src="https://i.ibb.co/0MRTgP3/39998-web-development.gif" alt="39998-web-development" border="0"></p>
+    
 - 🔭 I’m currently working on **Wordpress Website**
 
 - 🌱 I’m currently learning **MERN Stack Development**
