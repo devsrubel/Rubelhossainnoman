@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/yf6fQhN/Rubel-Hossain.gif)](https://developerrubel.com)
 
 <h1 align="center">Hi 👋, I'm Rubel Hossain Noman</h1>
-<h3 align="center">A passionate Frontend and Backend developer from **Bangladesh**</h3>
+<h2 align="center">A passionate Frontend and Backend developer from Bangladesh</h2>
 
 <p style="d-flex"> <img src="https://komarev.com/ghpvc/?username=rubelhossainnoman&label=Profile%20views&color=0e75b6&style=flat" alt="rubelhossainnoman" />
 <img align="right" style="width: 360px;height: 360px;object-fit: contain;" src="https://i.ibb.co/0MRTgP3/39998-web-development.gif" alt="39998-web-development" border="0"></p>
