@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rubel_hossain_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rubel_hossain_7" height="30" width="40" /></a>
+<a href="https://twitter.com/developer_rubel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rubel_hossain_7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rubelhossainnoman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubelhossainnoman" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rubel-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rubel-hossain" height="30" width="40" /></a>
-<a href="https://fb.com/rubelhossain.noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubelhossain.noman" height="30" width="40" /></a>
+<a href="https://fb.com/md.rubel.ali.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubelhossain.noman" height="30" width="40" /></a>
 <a href="https://instagram.com/rubel_hossain_noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubel_hossain_noman" height="30" width="40" /></a>
 </p>
 
