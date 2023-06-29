@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 🤝 I’m looking for help with **https://developerrubel.com/contact**
+- 🤝 I’m looking for help with **https://devsrubel.me/contact**
 
-- 👨‍💻 All of my projects are available at [https://developerrubel.com](https://devsrubel.me)
+- 👨‍💻 All of my projects are available at [https://devsrubel.me](https://devsrubel.me)
 
 - 📫 How to reach me **developerrubel.me@gmail.com**
 
