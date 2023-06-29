@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/yf6fQhN/Rubel-Hossain.gif)](https://developerrubel.com)
+[![MasterHead](https://i.ibb.co/yf6fQhN/Rubel-Hossain.gif)](https://devsrubel.me)
 
 <h1 align="center">Hi 👋, I'm Rubel Hossain</h1>
 <h2 align="center">A passionate Frontend and Backend developer from Bangladesh</h2>
@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **https://developerrubel.com/contact**
 
-- 👨‍💻 All of my projects are available at [https://developerrubel.com](https://developerrubel.com)
+- 👨‍💻 All of my projects are available at [https://developerrubel.com](https://devsrubel.me)
 
 - 📫 How to reach me **developerrubel.me@gmail.com**
 
